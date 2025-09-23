@@ -23,6 +23,11 @@ p {
 a {
     background-color: rgb(190, 140, 140);
 }
-#name {
-    
+
+.special {
+   font-family: fantasy;
+}
+
+#main-heading {
+  font-family: Georgia, 'Times New Roman', Times, serif;
 }
